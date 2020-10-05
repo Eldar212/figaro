@@ -1,0 +1,13 @@
+.load_more {
+    margin: 40px auto 100px;
+    padding: 14px 40px;
+    border: 1px solid var(--black);
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: fit-content;
+}

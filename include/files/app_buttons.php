@@ -1,0 +1,2 @@
+<a href="#" target="_blank"><img src="<?= SITE_TEMPLATE_PATH . '/images/google_play.png' ?>" alt=""></a>
+<a href="#" target="_blank"><img src="<?= SITE_TEMPLATE_PATH . '/images/app_store.png' ?>" alt=""></a>

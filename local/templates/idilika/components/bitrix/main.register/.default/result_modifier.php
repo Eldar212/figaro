@@ -1,0 +1,11 @@
+<?php
+
+$arResult["SHOW_FIELDS"] = array(
+	"NAME",
+	"PERSONAL_PHONE",
+	"EMAIL",
+	"PERSONAL_BIRTHDAY",
+	"PASSWORD",
+	"CONFIRM_PASSWORD",
+	"PERSONAL_GENDER"
+);
